@@ -1,6 +1,6 @@
 # npmdoc-react-monocle
 
-#### api documentation for  [react-monocle (v0.1.6)](https://github.com/team-gryff/react-monocle#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-monocle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-monocle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-monocle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-monocle)
+#### basic api documentation for  [react-monocle (v0.1.6)](https://github.com/team-gryff/react-monocle#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-monocle.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-monocle) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-monocle.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-monocle)
 
 #### A developer tool to visualize a React application's component hierarchy.
 
